@@ -1,4 +1,4 @@
-This a simple Python Calculator
+This a simple Python calculator
 
 It asks the user to input two numbers and a mathematical operation (addition, subtraction, multiplication, or division).
 
